@@ -3,9 +3,7 @@
 
 BUILD INSTRUCTIONS:
 
-navigate to project folder:
-
-	cd yum
+navigate to project folder
 
 install gorilla mux dependency package
 
