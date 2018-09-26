@@ -11,7 +11,7 @@ install gorilla mux dependency package
 
 run the project:
 	
-	go build && ./yum
+	go build && ./addressbookapi
 
 Open web browser to: http:localhost://8002
 
@@ -27,4 +27,8 @@ use Postman to connect to the local server and test each endpoint
 
 NEED TO ADD:
 CSV File import/output
+
+
+
+yum
 
